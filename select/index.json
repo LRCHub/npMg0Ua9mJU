@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "サクラミツツキ",
+  "base_artist": "SPYAIR",
+  "createdAt": "2026-02-19T14:27:39.025319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サクラミツツキ",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/01_サクラミツツキ_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サクラミツツキ",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/02_サクラミツツキ_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サクラミツツキ",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/03_サクラミツツキ_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サクラミツツキ",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/04_サクラミツツキ_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サクラミツツキ",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/05_サクラミツツキ_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サクラミツツキ",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/06_サクラミツツキ_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サクラミツツキ",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_サクラミツツキ_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サクラミツツキ",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/08_サクラミツツキ_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サクラミツツキ (Sakuramitsutsuki / 벚꽃만월) (애니메이션 '은혼' 오프닝 테마 곡)",
+      "artist": "Spyair",
+      "has_synced": true,
+      "path": "select/09_サクラミツツキ_(Sakuramitsutsuki___벚꽃만월)_(애니메이션_'은혼'_오프닝_테마_곡)_Spyair.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サクラミツツキ",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_サクラミツツキ_SPYAIR.txt"
+    }
+  ]
+}
